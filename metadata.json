@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Abil-Ai Client",
+  "description": "Multi-model AI Chat platform featuring ChatGPT, DeepSeek, Kimi, Grok, Gemini, and Abil-Ai VIP accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
